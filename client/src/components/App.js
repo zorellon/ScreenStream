@@ -10,7 +10,7 @@ import Header from './Header';
 const App = () => {
     return (
     <div>
-        <div className="ui container"></div>
+        <div className="ui container">
         <BrowserRouter>
             <div>
                 <Header/>
@@ -21,6 +21,7 @@ const App = () => {
                 <Route path="/streams/show" exact component={StreamShow} />
             </div>
         </BrowserRouter>
+        </div>
     </div>
     );
 };
