@@ -1,3 +1,19 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "create stream test 1",
+      "description": "create stream test 1",
+      "id": 1
+    },
+    {
+      "title": "create stream test 1",
+      "description": "create stream test 1",
+      "id": 2
+    },
+    {
+      "title": "dfgh",
+      "description": "ghj",
+      "id": 3
+    }
+  ]
 }
