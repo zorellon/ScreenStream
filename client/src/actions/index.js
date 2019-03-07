@@ -82,4 +82,7 @@ export const deleteStream = (id) => async dispatch => {
         type: DELETE_STREAM,
         payload: id
     });
+
+    // Navigating to main page after stream delete
+    history.push('/');
 };
