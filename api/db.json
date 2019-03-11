@@ -1,44 +1,33 @@
 {
   "streams": [
     {
-      "title": "create stream test 1",
-      "description": "create stream test 1",
+      "title": "Test 1: Show list",
+      "description": "create stream in list",
       "id": 1
     },
     {
-      "title": "create stream test 1",
-      "description": "create stream test 1",
+      "title": "Test 2: Create stream",
+      "description": "Can you see this stream?",
+      "userId": "107719327682711130149",
       "id": 2
     },
     {
-      "title": "Test edit button show",
-      "description": "test 4",
+      "title": "Test 3: db layout",
+      "description": "look at db!",
+      "userId": "107719327682711130149",
+      "id": 3
+    },
+    {
+      "title": "Test 4: Edit stream ",
+      "description": "Did i change?",
+      "userId": "107719327682711130149",
+      "id": 4
+    },
+    {
+      "title": "Test 5: View Live Stream",
+      "description": "Can you see your screen?",
       "userId": "107719327682711130149",
       "id": 5
-    },
-    {
-      "title": "test routing",
-      "description": "test routing",
-      "userId": "107719327682711130149",
-      "id": 7
-    },
-    {
-      "title": "test db layout",
-      "description": "test db layout",
-      "userId": "107719327682711130149",
-      "id": 8
-    },
-    {
-      "title": "test stream from",
-      "description": "did work?",
-      "userId": "107719327682711130149",
-      "id": 9
-    },
-    {
-      "title": "test post",
-      "description": "does it work",
-      "userId": "107719327682711130149",
-      "id": 10
     }
   ]
 }
